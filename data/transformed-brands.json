@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "66069ff93007b006635c0245",
+    "brandName": "Ward, Hand and Ortiz",
+    "headquarters": "Jastside",
+    "numberOfLocations": 2132,
+    "updatedAt": "2026-05-22T13:20:31.127Z",
+    "yearFounded": 1970
+  },
+  {
+    "_id": "66069ff93007b006635c0246",
+    "brandName": "Ergonomic Frozen Bacon",
+    "yearFounded": 1600,
+    "headquarters": "Gavinstead",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-22T13:20:31.132Z"
+  },
+  {
+    "_id": "66069ff93007b006635c0247",
+    "brandName": "Breitenberg, Greenholt and Ledner",
+    "yearFounded": 1982,
+    "headquarters": "Fort Lenna",
+    "numberOfLocations": 1000,
+    "updatedAt": "2026-05-22T13:20:31.135Z"
+  },
+  {
+    "_id": "66069ff93007b006635c0248",
+    "brandName": "Modern Granite Fish",
+    "yearFounded": 1970,
+    "headquarters": "Kundebury",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-22T13:20:31.137Z"
+  },
+  {
+    "_id": "66069ff93007b006635c0249",
+    "brandName": "Gorgeous Granite Pizza",
+    "headquarters": "Jonesborough",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-22T13:20:31.140Z",
+    "yearFounded": 1980
+  },
+  {
+    "_id": "66069ff93007b006635c024a",
+    "brandName": "Oriental Plastic Pants",
+    "yearFounded": 1970,
+    "headquarters": "Wardfort",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-22T13:20:31.143Z"
+  },
+  {
+    "_id": "66069ff93007b006635c024b",
+    "brandName": "Refined Granite Towels",
+    "yearFounded": 1600,
+    "headquarters": "Lemkeland",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-22T13:20:31.145Z"
+  },
+  {
+    "_id": "66069ff93007b006635c024c",
+    "brandName": "Corkery Inc",
+    "yearFounded": 1935,
+    "numberOfLocations": 9200,
+    "headquarters": "DuBuqueburgh",
+    "updatedAt": "2026-05-22T13:20:31.147Z"
+  },
+  {
+    "_id": "66069ff93007b006635c024d",
+    "yearFounded": 1600,
+    "headquarters": "West Mylesboro",
+    "numberOfLocations": 1,
+    "brandName": "Licensed Concrete Tuna",
+    "updatedAt": "2026-05-22T13:20:31.150Z"
+  },
+  {
+    "_id": "66069ff93007b006635c024e",
+    "brandName": "Generic Cotton Pizza",
+    "yearFounded": 1600,
+    "headquarters": "North Ralphport",
+    "numberOfLocations": 1,
+    "updatedAt": "2026-05-22T13:20:31.152Z"
+  },
+  {
+    "_id": "6a10581fa3155ccb3bb24175",
+    "brandName": "Dach and Sons",
+    "yearFounded": 1600,
+    "headquarters": "Joyceburgh",
+    "numberOfLocations": 371,
+    "createdAt": "2026-05-22T13:20:31.309Z",
+    "updatedAt": "2026-05-22T13:20:31.309Z"
+  },
+  {
+    "_id": "6a10581fa3155ccb3bb24176",
+    "brandName": "Mitchell Group",
+    "yearFounded": 2026,
+    "headquarters": "North Shana",
+    "numberOfLocations": 192,
+    "createdAt": "2026-05-22T13:20:31.309Z",
+    "updatedAt": "2026-05-22T13:20:31.309Z"
+  },
+  {
+    "_id": "6a10581fa3155ccb3bb24177",
+    "brandName": "Harvey - Okuneva",
+    "yearFounded": 1779,
+    "headquarters": "North Lucia",
+    "numberOfLocations": 1,
+    "createdAt": "2026-05-22T13:20:31.309Z",
+    "updatedAt": "2026-05-22T13:20:31.309Z"
+  },
+  {
+    "_id": "6a10581fa3155ccb3bb24178",
+    "brandName": "Sauer, Veum and Schumm",
+    "yearFounded": 1823,
+    "headquarters": "East Aletha",
+    "numberOfLocations": 1200,
+    "createdAt": "2026-05-22T13:20:31.309Z",
+    "updatedAt": "2026-05-22T13:20:31.309Z"
+  },
+  {
+    "_id": "6a10581fa3155ccb3bb24179",
+    "brandName": "Riverside & Co",
+    "yearFounded": 1806,
+    "headquarters": "North Tania",
+    "numberOfLocations": 361,
+    "createdAt": "2026-05-22T13:20:31.309Z",
+    "updatedAt": "2026-05-22T13:20:31.309Z"
+  },
+  {
+    "_id": "6a10581fa3155ccb3bb2417a",
+    "brandName": "Aufderhar, Connelly and Goyette",
+    "yearFounded": 1665,
+    "headquarters": "München",
+    "numberOfLocations": 382,
+    "createdAt": "2026-05-22T13:20:31.309Z",
+    "updatedAt": "2026-05-22T13:20:31.309Z"
+  },
+  {
+    "_id": "6a10581fa3155ccb3bb2417b",
+    "brandName": "Smith-Jones & Partners",
+    "yearFounded": 1966,
+    "headquarters": "Lefflermouth",
+    "numberOfLocations": 532,
+    "createdAt": "2026-05-22T13:20:31.309Z",
+    "updatedAt": "2026-05-22T13:20:31.309Z"
+  },
+  {
+    "_id": "6a10581fa3155ccb3bb2417c",
+    "brandName": "Studio 54 Apparel",
+    "yearFounded": 1863,
+    "headquarters": "Sammamish",
+    "numberOfLocations": 196,
+    "createdAt": "2026-05-22T13:20:31.309Z",
+    "updatedAt": "2026-05-22T13:20:31.309Z"
+  },
+  {
+    "_id": "6a10581fa3155ccb3bb2417d",
+    "brandName": "The International Collective of Artisanal Producers",
+    "yearFounded": 1609,
+    "headquarters": "West Oscar",
+    "numberOfLocations": 120,
+    "createdAt": "2026-05-22T13:20:31.309Z",
+    "updatedAt": "2026-05-22T13:20:31.309Z"
+  },
+  {
+    "_id": "6a10581fa3155ccb3bb2417e",
+    "brandName": "VonRueden - Quitzon",
+    "yearFounded": 1816,
+    "headquarters": "New Henry",
+    "numberOfLocations": 202,
+    "createdAt": "2026-05-22T13:20:31.309Z",
+    "updatedAt": "2026-05-22T13:20:31.309Z"
+  }
+]
